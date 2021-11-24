@@ -68,7 +68,7 @@
     <a target="_blank" href="mailto:laura.alabau.rodriguez@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
-    <a target="_blank" href="https://www.laura-alabau-rodriguez.info/" target="_blank">
+    <a target="_blank" href="https://www.laura-alabau.com/" target="_blank">
       <img src="https://img.shields.io/badge/-My%20Web-e20033?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
     </a>
 </div>   
