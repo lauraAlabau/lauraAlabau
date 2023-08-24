@@ -45,7 +45,7 @@
 
 
 <!-- STATS -->
-<br>
+<!-- <br>
 <h3 align="center">My GitHub Stats</h3>
 <p align="center">
   <img  height="150"
@@ -55,7 +55,7 @@
   height="150"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraAlabau&theme=react&layout=compact"
   />
-</p><br>
+</p><br> -->
 
 ----
 <!-- CONTACT -->
