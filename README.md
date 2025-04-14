@@ -26,6 +26,8 @@
      <td valign="top"  colspan="4"> 
       <img src="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" valign="middle"  alt="javascript"/>
       <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" valign="middle"  alt="typescript"/>
+      <img src="https://img.shields.io/badge/-Elm-05122A?style=flat&logo=elm" valign="middle"  alt="elm"/>
+      <img src="https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir" valign="middle"  alt="elixir"/>
     </td>
   </tr>
    <tr align="left">
@@ -33,11 +35,12 @@
     Frontend Development
     </td> <td valign="top" colspan="4"> 
       <img src="https://img.shields.io/badge/-Html5-05122A?style=flat&logo=html5" valign="middle"  alt="html5"/> 
-      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" valign="middle"  alt="css3"/>
-      <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass&logoColor=CC6699" valign="middle"  alt="Saas"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC" valign="middle"  alt="tailwind"/>
-      <img src="https://img.shields.io/badge/reactjs-05122A.svg?style=flat&logo=react&logoColor=61DAFB" valign="middle"  alt="react"/>
-      <img src="https://img.shields.io/badge/Jest-05122A?style=flat&logo=Jest&logoColor=563D7C" valign="middle"  alt="jest"/>
+      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3" valign="middle"  alt="css3"/>
+      <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass" valign="middle"  alt="Saas"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css" valign="middle"  alt="tailwind"/>
+      <img src="https://img.shields.io/badge/Reactjs-05122A.svg?style=flat&logo=react" valign="middle"  alt="react"/>
+      <img src="https://img.shields.io/badge/Jest-05122A?style=flat&logo=Jest" valign="middle"  alt="jest"/>
+      <img src="https://img.shields.io/badge/Vitest-05122A?style=flat&logo=Vitest" valign="middle"  alt="vitest"/>
     </td>
   </tr>
    <tr align="left">
@@ -45,9 +48,9 @@
      Backend Development
     </td> 
      <td valign="top" colspan="4"> 
-      <img src="https://img.shields.io/badge/node.js-05122A.svg?style=flat&logo=nodedotjs&logoColor=339933" valign="middle"  alt="nodejs"/>
-      <img src="https://img.shields.io/badge/express-05122A.svg?style=flat&logo=express&logoColor=eee" valign="middle"  alt="express" /> 
-      <img src="https://img.shields.io/badge/mongodb-05122A.svg?style=flat&logo=mongodb&logoColor=47A248" valign="middle"  alt="mongodb"/>
+      <img src="https://img.shields.io/badge/Node.js-05122A.svg?style=flat&logo=nodedotjs&logoColor=339933" valign="middle"  alt="nodejs"/>
+      <img src="https://img.shields.io/badge/Express-05122A.svg?style=flat&logo=express&logoColor=eee" valign="middle"  alt="express" /> 
+      <img src="https://img.shields.io/badge/Mongodb-05122A.svg?style=flat&logo=mongodb&logoColor=47A248" valign="middle"  alt="mongodb"/>
     </td>
   </tr>
  <tr align="left">
@@ -55,9 +58,9 @@
      Softwares and Tools
     </td> 
      <td valign="top" colspan="4"> 
-    <img src="https://img.shields.io/badge/GIT-05122A?style=flat&logo=git&logoColor=E44C30" valign="middle"  alt="git" />
-  <img src="https://img.shields.io/badge/github-05122A.svg?style=flat&logo=github&logoColor=eee" valign="middle"  alt="github" />
-  <img src="https://img.shields.io/badge/vscode-05122A.svg?style=flat&logo=visualstudiocode&logoColor=007ACC" valign="middle"  alt="vsCode"/>
+    <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=E44C30" valign="middle"  alt="git" />
+  <img src="https://img.shields.io/badge/Github-05122A.svg?style=flat&logo=github&logoColor=eee" valign="middle"  alt="github" />
+  <img src="https://img.shields.io/badge/Vscode-05122A.svg?style=flat&logo=visualstudiocode&logoColor=007ACC" valign="middle"  alt="vsCode"/>
     </td>
   </tr>
 <tr align="left">
@@ -65,26 +68,11 @@
      Design
     </td> 
      <td valign="top" colspan="4"> 
-  <img src="https://img.shields.io/badge/figma-05122A.svg?style=flat&logo=figma&logoColor=23F24E1E" valign="middle"  alt="Figma"/>
-  <img src="https://img.shields.io/badge/illustrator-05122A.svg?style=flat&logo=adobeillustrator&logoColor=23FF9A00" valign="middle"  alt="Adobe  Illustrator"/>
-  <img src="https://img.shields.io/badge/photoshop-05122A.svg?style=flat&logo=adobephotoshop&logoColor=2331A8FF" valign="middle"  alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/Figma-05122A.svg?style=flat&logo=figma&logoColor=23F24E1E" valign="middle"  alt="Figma"/>
+  <img src="https://img.shields.io/badge/Illustrator-05122A.svg?style=flat&logo=illustrator" valign="middle"  alt="adobe-illustrator"/>
+  <img src="https://img.shields.io/badge/Photoshop-05122A.svg?style=flat&photoshop" valign="middle"  alt="adobe-photoshop"/>
     </td>
   </tr>
-  <!--  <tr align="left">
-    <td valign="top" > 
-     Other
-  </td> 
-     <td valign="top" colspan="4"> 
- <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"  valign="bottom"  alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" valign="bottom"  alt="heroku"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" valign="bottom"  alt="vercel"/>
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
-  <img src="https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign"/>
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
-    </td>
-  </tr>-->
 </table>
 <br>
 
